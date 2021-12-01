@@ -1,0 +1,127 @@
+E:\Smooth\Smooth\bin\Debug\Smooth.exe
+E:\Smooth\Smooth\bin\Debug\Smooth.pdb
+E:\Smooth\Smooth\bin\Debug\Smooth.xml
+E:\Smooth\Smooth\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Smooth\Smooth\obj\x86\Debug\Smooth.frmMenu.resources
+E:\Smooth\Smooth\obj\x86\Debug\Smooth.frmCliente.resources
+E:\Smooth\Smooth\obj\x86\Debug\Smooth.frmPedido.resources
+E:\Smooth\Smooth\obj\x86\Debug\Smooth.Form6.resources
+E:\Smooth\Smooth\obj\x86\Debug\Smooth.Resources.resources
+E:\Smooth\Smooth\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\Smooth\Smooth\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\Smooth\Smooth\obj\x86\Debug\Smooth.exe
+E:\Smooth\Smooth\obj\x86\Debug\Smooth.xml
+E:\Smooth\Smooth\obj\x86\Debug\Smooth.pdb
+E:\Smooth\Smooth\obj\x86\Debug\Smooth.frmIngresarCliente.resources
+E:\Smooth\Smooth\obj\x86\Debug\Smooth.frmPago.resources
+D:\Smooth\Smooth\obj\x86\Debug\Smooth.exe
+D:\Smooth\Smooth\obj\x86\Debug\Smooth.xml
+D:\Smooth\Smooth\obj\x86\Debug\Smooth.pdb
+C:\Users\usuario\Desktop\Smooth\Smooth\obj\x86\Debug\Smooth.exe
+C:\Users\usuario\Desktop\Smooth\Smooth\obj\x86\Debug\Smooth.xml
+C:\Users\usuario\Desktop\Smooth\Smooth\obj\x86\Debug\Smooth.pdb
+C:\Users\usuario\Desktop\Smooth\Smooth\bin\Debug\Smooth.exe
+C:\Users\usuario\Desktop\Smooth\Smooth\bin\Debug\Smooth.pdb
+C:\Users\usuario\Desktop\Smooth\Smooth\bin\Debug\Smooth.xml
+C:\Users\usuario\Desktop\Smooth\Smooth\obj\x86\Debug\Smooth.frmMenu.resources
+C:\Users\usuario\Desktop\Smooth\Smooth\obj\x86\Debug\Smooth.frmCliente.resources
+C:\Users\usuario\Desktop\Smooth\Smooth\obj\x86\Debug\Smooth.frmPedido.resources
+C:\Users\usuario\Desktop\Smooth\Smooth\obj\x86\Debug\Smooth.frmIngresarCliente.resources
+C:\Users\usuario\Desktop\Smooth\Smooth\obj\x86\Debug\Smooth.frmPago.resources
+C:\Users\usuario\Desktop\Smooth\Smooth\obj\x86\Debug\Smooth.Resources.resources
+C:\Users\usuario\Desktop\Smooth\Smooth\obj\x86\Debug\Smooth.vbproj.GenerateResource.Cache
+C:\Users\usuario\Desktop\Smooth\Smooth\obj\x86\Debug\Smooth.frmRecibos.resources
+H:\College\POO\TP Fasolino Smooth\Smooth\Smooth\obj\x86\Debug\Smooth.exe
+H:\College\POO\TP Fasolino Smooth\Smooth\Smooth\obj\x86\Debug\Smooth.xml
+H:\College\POO\TP Fasolino Smooth\Smooth\Smooth\obj\x86\Debug\Smooth.pdb
+H:\College\POO\TP Fasolino Smooth\Smooth\Smooth\bin\Debug\Smooth.exe
+H:\College\POO\TP Fasolino Smooth\Smooth\Smooth\bin\Debug\Smooth.pdb
+H:\College\POO\TP Fasolino Smooth\Smooth\Smooth\bin\Debug\Smooth.xml
+H:\College\POO\TP Fasolino Smooth\Smooth\Smooth\obj\x86\Debug\ResolveAssemblyReference.cache
+H:\College\POO\TP Fasolino Smooth\Smooth\Smooth\obj\x86\Debug\Smooth.frmMenu.resources
+H:\College\POO\TP Fasolino Smooth\Smooth\Smooth\obj\x86\Debug\Smooth.frmCliente.resources
+H:\College\POO\TP Fasolino Smooth\Smooth\Smooth\obj\x86\Debug\Smooth.frmPedido.resources
+H:\College\POO\TP Fasolino Smooth\Smooth\Smooth\obj\x86\Debug\Smooth.frmIngresarCliente.resources
+H:\College\POO\TP Fasolino Smooth\Smooth\Smooth\obj\x86\Debug\Smooth.frmPago.resources
+H:\College\POO\TP Fasolino Smooth\Smooth\Smooth\obj\x86\Debug\Smooth.frmRecibos.resources
+H:\College\POO\TP Fasolino Smooth\Smooth\Smooth\obj\x86\Debug\Smooth.Resources.resources
+H:\College\POO\TP Fasolino Smooth\Smooth\Smooth\obj\x86\Debug\GenerateResource.read.1.tlog
+H:\College\POO\TP Fasolino Smooth\Smooth\Smooth\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\College\POO\TP Fasolino Smooth\Smooth\Smooth\obj\x86\Debug\Smooth.exe
+D:\College\POO\TP Fasolino Smooth\Smooth\Smooth\obj\x86\Debug\Smooth.xml
+D:\College\POO\TP Fasolino Smooth\Smooth\Smooth\obj\x86\Debug\Smooth.pdb
+D:\College\POO\TP Fasolino Smooth\Smooth\Smooth\bin\Debug\Smooth.exe
+D:\College\POO\TP Fasolino Smooth\Smooth\Smooth\bin\Debug\Smooth.pdb
+D:\College\POO\TP Fasolino Smooth\Smooth\Smooth\bin\Debug\Smooth.xml
+D:\College\POO\TP Fasolino Smooth\Smooth\Smooth\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\College\POO\TP Fasolino Smooth\Smooth\Smooth\obj\x86\Debug\Smooth.frmMenu.resources
+D:\College\POO\TP Fasolino Smooth\Smooth\Smooth\obj\x86\Debug\Smooth.frmCliente.resources
+D:\College\POO\TP Fasolino Smooth\Smooth\Smooth\obj\x86\Debug\Smooth.frmPedido.resources
+D:\College\POO\TP Fasolino Smooth\Smooth\Smooth\obj\x86\Debug\Smooth.frmIngresarCliente.resources
+D:\College\POO\TP Fasolino Smooth\Smooth\Smooth\obj\x86\Debug\Smooth.frmPago.resources
+D:\College\POO\TP Fasolino Smooth\Smooth\Smooth\obj\x86\Debug\Smooth.frmRecibos.resources
+D:\College\POO\TP Fasolino Smooth\Smooth\Smooth\obj\x86\Debug\Smooth.Resources.resources
+D:\College\POO\TP Fasolino Smooth\Smooth\Smooth\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\College\POO\TP Fasolino Smooth\Smooth\Smooth\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\usuario\Downloads\Smooth\Smooth\obj\x86\Debug\Smooth.exe
+C:\Users\usuario\Downloads\Smooth\Smooth\obj\x86\Debug\Smooth.xml
+C:\Users\usuario\Downloads\Smooth\Smooth\obj\x86\Debug\Smooth.pdb
+C:\Users\usuario\Downloads\Smooth\Smooth\bin\Debug\Smooth.exe
+C:\Users\usuario\Downloads\Smooth\Smooth\bin\Debug\Smooth.pdb
+C:\Users\usuario\Downloads\Smooth\Smooth\bin\Debug\Smooth.xml
+C:\Users\usuario\Downloads\Smooth\Smooth\obj\x86\Debug\Smooth.frmMenu.resources
+C:\Users\usuario\Downloads\Smooth\Smooth\obj\x86\Debug\Smooth.frmCliente.resources
+C:\Users\usuario\Downloads\Smooth\Smooth\obj\x86\Debug\Smooth.frmPedido.resources
+C:\Users\usuario\Downloads\Smooth\Smooth\obj\x86\Debug\Smooth.frmIngresarCliente.resources
+C:\Users\usuario\Downloads\Smooth\Smooth\obj\x86\Debug\Smooth.frmPago.resources
+C:\Users\usuario\Downloads\Smooth\Smooth\obj\x86\Debug\Smooth.frmRecibos.resources
+C:\Users\usuario\Downloads\Smooth\Smooth\obj\x86\Debug\Smooth.frmStock.resources
+C:\Users\usuario\Downloads\Smooth\Smooth\obj\x86\Debug\Smooth.Resources.resources
+C:\Users\usuario\Downloads\Smooth\Smooth\obj\x86\Debug\Smooth.vbproj.GenerateResource.Cache
+F:\Smooth\Smooth\obj\x86\Debug\Smooth.exe
+F:\Smooth\Smooth\obj\x86\Debug\Smooth.xml
+F:\Smooth\Smooth\obj\x86\Debug\Smooth.pdb
+F:\Smooth\Smooth\bin\Debug\Smooth.exe
+F:\Smooth\Smooth\bin\Debug\Smooth.pdb
+F:\Smooth\Smooth\bin\Debug\Smooth.xml
+F:\Smooth\Smooth\obj\x86\Debug\Smooth.frmMenu.resources
+F:\Smooth\Smooth\obj\x86\Debug\Smooth.frmCliente.resources
+F:\Smooth\Smooth\obj\x86\Debug\Smooth.frmPedido.resources
+F:\Smooth\Smooth\obj\x86\Debug\Smooth.frmIngresarCliente.resources
+F:\Smooth\Smooth\obj\x86\Debug\Smooth.frmPago.resources
+F:\Smooth\Smooth\obj\x86\Debug\Smooth.frmRecibos.resources
+F:\Smooth\Smooth\obj\x86\Debug\Smooth.frmStock.resources
+F:\Smooth\Smooth\obj\x86\Debug\Smooth.Resources.resources
+F:\Smooth\Smooth\obj\x86\Debug\Smooth.vbproj.GenerateResource.Cache
+F:\College\POO\TP Fasolino Smooth\Smooth\Smooth\obj\x86\Debug\Smooth.exe
+F:\College\POO\TP Fasolino Smooth\Smooth\Smooth\obj\x86\Debug\Smooth.xml
+F:\College\POO\TP Fasolino Smooth\Smooth\Smooth\obj\x86\Debug\Smooth.pdb
+F:\College\POO\TP Fasolino Smooth\Smooth\Smooth\bin\Debug\Smooth.exe
+F:\College\POO\TP Fasolino Smooth\Smooth\Smooth\bin\Debug\Smooth.pdb
+F:\College\POO\TP Fasolino Smooth\Smooth\Smooth\bin\Debug\Smooth.xml
+F:\College\POO\TP Fasolino Smooth\Smooth\Smooth\obj\x86\Debug\Smooth.frmMenu.resources
+F:\College\POO\TP Fasolino Smooth\Smooth\Smooth\obj\x86\Debug\Smooth.frmCliente.resources
+F:\College\POO\TP Fasolino Smooth\Smooth\Smooth\obj\x86\Debug\Smooth.frmPedido.resources
+F:\College\POO\TP Fasolino Smooth\Smooth\Smooth\obj\x86\Debug\Smooth.frmIngresarCliente.resources
+F:\College\POO\TP Fasolino Smooth\Smooth\Smooth\obj\x86\Debug\Smooth.frmPago.resources
+F:\College\POO\TP Fasolino Smooth\Smooth\Smooth\obj\x86\Debug\Smooth.frmRecibos.resources
+F:\College\POO\TP Fasolino Smooth\Smooth\Smooth\obj\x86\Debug\Smooth.frmStock.resources
+F:\College\POO\TP Fasolino Smooth\Smooth\Smooth\obj\x86\Debug\Smooth.Resources.resources
+F:\College\POO\TP Fasolino Smooth\Smooth\Smooth\obj\x86\Debug\Smooth.vbproj.GenerateResource.Cache
+G:\College\POO\TP Fasolino Smooth\Smooth\Smooth\obj\x86\Debug\Smooth.exe
+G:\College\POO\TP Fasolino Smooth\Smooth\Smooth\obj\x86\Debug\Smooth.xml
+G:\College\POO\TP Fasolino Smooth\Smooth\Smooth\obj\x86\Debug\Smooth.pdb
+G:\College\POO\TP Fasolino Smooth\Smooth\Smooth\bin\Debug\Smooth.exe
+G:\College\POO\TP Fasolino Smooth\Smooth\Smooth\bin\Debug\Smooth.pdb
+G:\College\POO\TP Fasolino Smooth\Smooth\Smooth\bin\Debug\Smooth.xml
+G:\College\POO\TP Fasolino Smooth\Smooth\Smooth\obj\x86\Debug\ResolveAssemblyReference.cache
+G:\College\POO\TP Fasolino Smooth\Smooth\Smooth\obj\x86\Debug\Smooth.frmMenu.resources
+G:\College\POO\TP Fasolino Smooth\Smooth\Smooth\obj\x86\Debug\Smooth.frmCliente.resources
+G:\College\POO\TP Fasolino Smooth\Smooth\Smooth\obj\x86\Debug\Smooth.frmPedido.resources
+G:\College\POO\TP Fasolino Smooth\Smooth\Smooth\obj\x86\Debug\Smooth.frmIngresarCliente.resources
+G:\College\POO\TP Fasolino Smooth\Smooth\Smooth\obj\x86\Debug\Smooth.frmPago.resources
+G:\College\POO\TP Fasolino Smooth\Smooth\Smooth\obj\x86\Debug\Smooth.frmRecibos.resources
+G:\College\POO\TP Fasolino Smooth\Smooth\Smooth\obj\x86\Debug\Smooth.frmStock.resources
+G:\College\POO\TP Fasolino Smooth\Smooth\Smooth\obj\x86\Debug\Smooth.Resources.resources
+G:\College\POO\TP Fasolino Smooth\Smooth\Smooth\obj\x86\Debug\GenerateResource.read.1.tlog
+G:\College\POO\TP Fasolino Smooth\Smooth\Smooth\obj\x86\Debug\GenerateResource.write.1.tlog
